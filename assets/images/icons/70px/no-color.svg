@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="66px" viewBox="0 0 70 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / 70px / No / Color</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-/-70px-/-No-/-Color" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group" transform="translate(4.000000, 0.000000)" stroke="#3C3C3C" stroke-width="4">
+            <polygon id="Stroke-4" fill="#9A9A9A" points="44 39.209 62.752 39.209 62.752 0 44 0"></polygon>
+            <path d="M18.752,59.962 C18.752,59.962 18.752,56.552 20.457,51.438 C22.162,46.324 23.866,46.324 23.866,42.914 L5.114,42.914 C2.29,42.914 0,40.625 0,37.8 C0,32.686 6.819,32.686 6.819,32.686 C3.994,32.686 1.705,30.396 1.705,27.571 C1.705,20.753 10.229,22.457 10.229,22.457 C7.404,22.457 5.114,20.168 5.114,17.343 C5.114,12.229 9.108,12.229 11.934,12.229 C11.934,12.229 8.523,11.376 8.523,7.114 C8.523,4.76 10.432,2 12.786,2 L39.941,2 C41.42,2 42.619,3.199 42.619,4.678 L42.619,34.391 C42.619,41.21 35.8,48.028 32.391,51.438 C28.981,54.848 28.981,59.962 28.981,59.962 C28.981,62.787 26.691,65.076 23.866,65.076 C21.042,65.076 18.752,62.787 18.752,59.962 Z" id="Stroke-5" fill="#FFF4DF"></path>
+        </g>
+    </g>
+</svg>
